@@ -1,4 +1,6 @@
 # File Cleanup
+Traverse directory (including subdirectories) and delete files older than 30 days.
+
 # Purpose
 This script will delete files older than 30 days in a specified folder.
 It should be automated using a scheduled task or a cron job to automaticall delete files from a folder.
